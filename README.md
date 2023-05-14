@@ -1,9 +1,9 @@
 ### Hi there 👋 , I'm Hammad Ahmed
 
 
-## I'm a Full Stack Developer
+## I'm a Software and Cyber Security Enthusiastic.
 
-- 🔭 I’m currently working on  Full Stack JavaScript development
+- 🔭 I’m currently working on Software development, Cloud Computing and Cyber Security
 - 👯 I'm looking to work with Organizations working on modern tech-stack
 - 🌱 I'm currently learning everything 🤣
 - 🥅 2023 Goals: Learn More and become professional
