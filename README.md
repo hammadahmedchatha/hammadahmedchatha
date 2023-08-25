@@ -1,13 +1,18 @@
 ### Hi there 👋 , I'm Hammad Ahmed
 
 
-## I'm a Software and Cyber Security Enthusiastic.
+## I'm a Frontend Developer and IT Enthusiastic.
 
-- 🔭 I’m currently working on Software development, Cloud Computing and Cyber Security
-- 👯 I'm looking to work with Organizations working on modern tech-stack
-- 🌱 I'm currently learning everything 🤣
-- 🥅 2023 Goals: Learn More and become professional
--  Fun fact: I love skydiving / Hiking
+- 🔭 I’m currently working on Web Developement, Cloud and Information Security
+- 👯 I'm looking to work with Organizations working on modern tech-stack and IT
+- 🌱 I'm currently learning backend developement 🤣
+
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+<br/>
+
 
 ### Connect with me:
 
