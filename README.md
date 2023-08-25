@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Web Developement, Cloud and Information Security
 - 👯 I'm looking to work with Organizations working on modern tech-stack and IT
-- 🌱 I'm currently learning backend developement 🤣
+- 🌱 I'm currently learning backend developement and cybersecurity
 
 
 ### Skills
